@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Embedding JavaScript</title>
+    <script>
+        // Internal JavaScript (within the <head> tag)
+        function internalFunction() {
+            alert("This is from internal JavaScript in the head.");
+        }
+    </script>
+    <script src="external.js"></script>
+</head>
+<body>
+
+    <h1>Embedding JavaScript Examples</h1>
+
+    <button onclick="internalFunction()">Click for Internal Head Script</button><br><br>
+    <button onclick="externalFunction()">Click for External Script</button><br><br>
+    <button onclick="internalBodyFunction()">Click for Internal Body Script</button>
+
+    <p id="demo"></p>
+
+    <script>
+        // Internal JavaScript (within the <body> tag)
+        function internalBodyFunction() {
+            document.getElementById("demo").innerHTML = "Internal JavaScript in the body changed this"
+                                                                                                        
+        }
+    </script>
+</body>
+</html>

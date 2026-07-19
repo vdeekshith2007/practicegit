@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>output method</title>
+
+    </head>
+    <body>
+        <h1>
+            output methods
+        </h1>
+        <p id ="demo"></p>
+        <script>
+            document.getelementbyid("demo").innerhtml="hello inner html";
+            document.write("this my document");
+            function showalert(){
+alert("this is an alert box");
+            }
+console.log("this cosole log message");
+console.error("error");
+console.warn("this a warn");
+console.info("this info");4
+let newdiv=document.createelement("div");
+let newtext=document.cratetextnode("appended text node");
+newdiv.appendchild(newtext);
+document.body.appendchilde(newdiv);
+            
+        </script>
+        <button onclick="showalert()">show alert</button>
+    </body>
+</html>
