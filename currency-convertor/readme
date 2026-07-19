@@ -1,0 +1,183 @@
+# 💱 Currency Converter
+
+A responsive and user-friendly **Currency Converter Web Application** that allows users to convert currencies easily using real-time exchange rates. This project demonstrates API integration, JavaScript functionality, and modern frontend development practices.
+
+---
+
+## 🚀 Features
+
+✅ **Real-Time Currency Conversion**
+
+* Converts currencies using live exchange rate data.
+* Provides accurate and updated conversion values.
+
+✅ **Multiple Currency Support**
+
+* Supports various international currencies.
+* Easy currency selection.
+
+✅ **Currency Swap Function**
+
+* Quickly exchange the "From" and "To" currencies with one click.
+
+✅ **Responsive User Interface**
+
+* Fully optimized for desktop, tablet, and mobile devices.
+
+✅ **Fast Performance**
+
+* Simple and lightweight application.
+* Instant conversion results.
+
+---
+
+# 📸 Screenshots
+
+## 🏠 Application Interface
+
+![Currency Converter](screenshots/home.png)
+
+## 💰 Conversion Output
+
+![Conversion Result](screenshots/result.png)
+
+---
+
+# 🛠️ Technologies Used
+
+## Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+
+## API
+
+* Exchange Rate API
+
+## Tools
+
+* Visual Studio Code
+* Git
+* GitHub
+
+---
+
+# 📂 Project Structure
+
+```text
+Currency-Converter/
+│
+├── index.html          # Main HTML file
+├── style.css           # Styling file
+├── script.js           # JavaScript logic
+│
+├── screenshots/
+│   ├── home.png
+│   └── result.png
+│
+└── README.md
+```
+
+---
+
+# ⚙️ Installation & Setup
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/vdeekshith2007/currency-converter.git
+```
+
+### Step 2: Navigate to Project Folder
+
+```bash
+cd currency-converter
+```
+
+### Step 3: Run the Application
+
+Open:
+
+```text
+index.html
+```
+
+in your browser.
+
+---
+
+# 🔑 API Configuration
+
+This project uses a currency exchange API to fetch live exchange rates.
+
+### Steps:
+
+1. Create an account on a currency API provider.
+2. Generate your API key.
+3. Add the API key in `script.js`.
+
+Example:
+
+```javascript
+const API_KEY = "YOUR_API_KEY";
+```
+
+---
+
+# 🔄 How It Works
+
+1. User enters the amount to convert.
+2. Selects the source currency.
+3. Selects the target currency.
+4. Application sends a request to the exchange rate API.
+5. Latest conversion value is displayed.
+
+---
+
+# 🎯 Future Enhancements
+
+* 🌙 Add dark mode support
+* 📊 Add currency exchange rate charts
+* 🕒 Add conversion history
+* 🔐 Add user authentication
+* 💰 Add cryptocurrency conversion
+* 📱 Create mobile application version
+
+---
+
+# 📚 Learning Outcomes
+
+Through this project, I learned:
+
+* Working with REST APIs
+* JavaScript asynchronous operations
+* DOM manipulation
+* Responsive web design
+* Real-world frontend application development
+
+---
+
+# 👨‍💻 Author
+
+## Deekshith Vataparthi
+
+Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast
+
+---
+
+# 📞 Contact & Support
+
+For queries, suggestions, or feedback, feel free to contact me:
+
+📱 **Phone:** 8074428077
+📧 **Email:** [vataparthideekshith18@gmail.com](mailto:vataparthideekshith18@gmail.com)
+🐙 **GitHub:** vdeekshith2007
+
+---
+
+# ⭐ Support
+
+If you like this project, please consider giving it a ⭐ on GitHub.
+
+Your support encourages me to create more innovative projects.
