@@ -109,9 +109,9 @@ Python Complete Learning Program   using dsa and oops in same as c and c++ also 
 
 20. Matplotlib
 
-21. Flask
+21. Flask  // backend 
 
-22. Django (Introduction)
+22. Django (Introduction)  //frame work
 
 23. Machine Learning
     ✔ Scikit-learn
