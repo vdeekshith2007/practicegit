@@ -1,6 +1,6 @@
  #### practising git commands
 DEEKSHITH IS GOOD
-Python Complete Learning Program   using dsa and oops 
+Python Complete Learning Program   using dsa and oops in same as c and c++ also increase the  learning updates `to increase skill progress
 
 1. Basics
    ✔ Variables
