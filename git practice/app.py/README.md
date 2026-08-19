@@ -114,7 +114,7 @@ Python Complete Learning Program   using dsa and oops in same as c and c++ also 
 22. Django (Introduction)  //frame work
 
 23. Machine Learning
-    ✔ Scikit-learn
+    ✔ Scikit-learn and keras
 
 24. Deep Learning
     ✔ TensorFlow
