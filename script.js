@@ -3,7 +3,7 @@
   const D = document,
     H = D.documentElement;
 
-  /* ══ 1. BOOT SCREEN ═══════════════════════════════════════════ */
+  /* ══ 1. BOOT SCREEN  visual ═══════════════════════════════════════════ */
   const bootEl = D.getElementById("boot"),
     bbar = D.getElementById("bbar"),
     btxt = D.getElementById("btxt");
