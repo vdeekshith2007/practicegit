@@ -146,7 +146,7 @@ footer,
   z-index: 800;
 }
 
-/* ═══ SPOTLIGHT CURSOR GLOW ═══ */
+/* ═══ SPOTLIGHT CURSOR GLOW  change css ═══ */
 #spotlight {
   background: radial-gradient(
     circle 400px at var(--sx, 50%) var(--sy, 50%),
